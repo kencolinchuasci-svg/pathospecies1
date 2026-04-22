@@ -1,0 +1,14 @@
+{
+	"file": "https://raw.githubusercontent.com/kencolinchuasci-svg/pathospecies1/refs/heads/main/patho%20species1.csv",
+	"name": "PathoSpecies1a",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "species" },
+		{ "type": "float", "index": 5, "set": "Average Rating", "min": 0.0, "max": 5171.0 }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 45 }
+	]
+}
